@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    padding-top: 10%;
+}
+.row{
+    /* width: 40%; */
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 10px #9999;
+}
+.card-image{
+    width: 100%;
+}
+.card-p{
+    color: #999;
+}
+.card-title{
+    padding: 10px 0;
+}
